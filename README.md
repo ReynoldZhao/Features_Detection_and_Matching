@@ -55,4 +55,4 @@ cd python featuresUI.py
 ### Features matching
 ![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/match1.png)
 
-![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/match2.png)
+![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/match3.png)
