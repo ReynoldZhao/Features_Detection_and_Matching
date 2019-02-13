@@ -45,10 +45,14 @@ cd python featuresUI.py
 
 ### Features detecting and descriptor
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\cat.jpg)
+![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/bike1.png)
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\dog.jpg)
+![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/Harris4.jpg)
 
+![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/graf1.png)
+
+![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/Harris3.jpg)
 ### Features matching
+![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/match1.png)
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\hybrid.png)
+![](https://github.com/ReynoldZhao/Project2_Features_Detection_and_Matching/raw/master/Project2_Results/match2.png)
